@@ -8,9 +8,9 @@ Time spent: **x** hours spent in total
 
 The following **required** functionality is completed:
 
-- [] User can sign into profile
-- [] Other users can queue songs
-- [] Songs will autoplay
+- [ ] User can sign into profile
+- [ ] Other users can queue songs
+- [ ] Songs will autoplay
 
 The following **optional** features are implemented:
 

@@ -1,0 +1,19 @@
+Michelle & The Pixies
+#OFTD - Outfit Of The Day
+
+Michelle & The Pixies have decided to use Firebase as the backend for this project.
+
+REQUIREMENTS:
+	- Settings page
+	- Push notification of what I should wear
+	- Cool assets!
+	- User defaults (save settings)
+
+OPTIONALS:
+	- Graph: Facebook Analytics API
+	- Search within graph
+	- History of what I wore
+	- Cool outfit combo to save
+
+OpenWeatherMap API: Current Weather endpoint by geographic coordinates
+Model class: TodayOutfit (what to wear, temperature, etc.)
